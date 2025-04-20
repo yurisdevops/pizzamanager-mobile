@@ -64,9 +64,6 @@ src/
 
 ---
 
-## 🎬 Demonstração
-
-![PizzaManager Demo](./pizzamanager_demo.gif)
 
 Se você quiser, posso montar um GIF demonstrando a navegação do app (com base num vídeo ou prints) e também adicionar isso no README. Deseja algo assim?
 
